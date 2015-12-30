@@ -153,7 +153,10 @@ To install ruby 2.2.3 (substitute this for the latest recommended version of Rub
 rbenv install 2.2.3
 ```
 
-This may take some time. Go get a coffee. I like [Stumptown](http://stumptowncoffee.com/). You can install other rubies (different versions of ruby) this way as well.
+This may take some time. Go get a coffee. I like [Stumptown](http://stumptowncoffee.com/). You can install other rubies (different versions of ruby) this way as well. Then run:
+```
+rbenv rehash
+```
 
 After this finishes, you can setup your global (default) Ruby:
 ```
