@@ -1,6 +1,6 @@
 # Mac Setup for Web Development Intensive
 
-This is a guide for the Ruby/Rails version of the WDI course (2013 - 2018).  If you're looking for the current version of this installation guide, [head over here instead](https://github.com/bitmakerlabs/python-dev-setup-guide-linux#Linux-Development-Environment-and-Tool://github.com/bitmakerlabs/python-dev-setup-guide-mac).
+This is a guide for the Ruby/Rails version of the WDI course (2013 - 2018).  If you're looking for the current version of this installation guide, [head over here instead](https://github.com/bitmakerlabs/python-dev-setup-guide-mac).
 
 This is Bitmaker's guide to setting up a development environment on a Mac for the Web Development Intensive course.  If you are using Linux (or need to install Linux in place of Windows), please refer to [this guide](https://github.com/bitmakerlabs/dev_environment_setup) instead.
 
